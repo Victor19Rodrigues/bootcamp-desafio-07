@@ -10,7 +10,7 @@ O layout do projeto está em anexo com esse desafio. O arquivo `.sketch` (no dir
 
 Resultado:
 <center>
-<img src="demo.gif" height="400">
+<img src="res_1.png" height="400">
 </center>
 
 
