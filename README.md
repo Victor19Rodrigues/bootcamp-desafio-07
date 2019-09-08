@@ -12,6 +12,9 @@ Resultado:
 <center>
 <img src="res_1.png" height="400">
 </center>
+<center>
+<img src="res_2.png" height="400">
+</center>
 
 
 “Não espere resultados brilhantes se suas metas não forem claras”!
